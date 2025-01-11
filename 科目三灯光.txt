@@ -1,5 +1,3 @@
-m7 on b1
-
 m4 on b1
 
 m3
